@@ -1,0 +1,9 @@
+{
+  "ticker": "LOGAN",
+  "name": "Wolverine Token",
+  "chain": "ION.testnet",
+  "summary": "Wolverine",
+  "description": "",
+  "creator": "Wolverine",
+  "contact": { "mailto:": "DR X" }
+}
