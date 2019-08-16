@@ -1,0 +1,10 @@
+[{
+  "ticker": "Ham",
+  "name": "Ham Sandwich",
+  "chain": "ION.testnet",
+  "summary": "",
+  "description": "Ham Token is made for sandwiches",
+  "creator": "Wolverine",
+  "contact": { "mailto:": "wolverine" }
+ },
+"<signature>"]
